@@ -1,0 +1,92 @@
+[
+  {
+    "id": 1,
+    "doctor_image": "/doc/doc3.png",
+    "doctor_name": "Dr. Amir Hossain",
+    "education": [
+      "MBBS from Dhaka Medical College",
+      "MD in Cardiology from Bangabandhu Sheikh Mujib Medical University"
+    ],
+    "speciality": "Cardiology",
+    "experience": "14 Years",
+    "registration_number": "BMA45678901",
+    "workplace": "United Hospital, Dhaka",
+    "fee": "350",
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 2,
+    "doctor_image": "/doc/doc5.png",
+    "doctor_name": "Dr. Ahmed Hassan",
+    "education": [
+      "MBBS from Chittagong Medical College",
+      "Fellowship in Neurology from National Institute of Neurosciences"
+    ],
+    "speciality": "Neurology",
+    "experience": "15 Years",
+    "registration_number": "BMA12345678",
+    "workplace": "Square Hospital, Dhaka",
+    "fee": "400",
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 3,
+    "doctor_image": "/doc/doc6.png",
+    "doctor_name": "Dr. Rafiqul Islam",
+    "education": [
+      "MBBS from Sir Salimullah Medical College",
+      "FCPS in General Surgery from Bangladesh College of Physicians and Surgeons"
+    ],
+    "speciality": "General Surgery",
+    "experience": "12 Years",
+    "registration_number": "BMA87654321",
+    "workplace": "Green Life Hospital, Dhaka",
+    "fee": "300",
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 4,
+    "doctor_image": "/doc/doc3.png",
+    "doctor_name": "Dr. Mahmud Ali",
+    "education": [
+      "MBBS from Rajshahi Medical College",
+      "MS in Orthopedic Surgery from Dhaka Medical College"
+    ],
+    "speciality": "Orthopedic Surgery",
+    "experience": "18 Years",
+    "registration_number": "BMA23456789",
+    "workplace": "Apollo Hospital, Dhaka",
+    "fee": "500",
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  },
+  {
+    "id": 5,
+    "doctor_image": "/doc/doc5.png",
+    "doctor_name": "Dr. Tariq Anwar",
+    "education": [
+      "MBBS from Mymensingh Medical College",
+      "MS in Urology from Bangabandhu Sheikh Mujib Medical University"
+    ],
+    "speciality": "Urology",
+    "experience": "9 Years",
+    "registration_number": "BMA34567890",
+    "workplace": "Labaid Specialized Hospital, Dhaka",
+    "fee": "420",
+    "availability": ["Monday", "Wednesday", "Friday"]
+  },
+  {
+    "id": 6,
+    "doctor_image": "/doc/doc6.png",
+    "doctor_name": "Dr. Karim Uddin",
+    "education": [
+      "MBBS from Sylhet MAG Osmani Medical College",
+      "DDV in Dermatology from Bangabandhu Sheikh Mujib Medical University"
+    ],
+    "speciality": "Dermatology",
+    "experience": "11 Years",
+    "registration_number": "BMA56789012",
+    "workplace": "Popular Medical Centre, Dhaka",
+    "fee": "380",
+    "availability": ["Tuesday", "Thursday", "Saturday"]
+  }
+]
