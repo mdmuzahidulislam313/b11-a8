@@ -1,12 +1,12 @@
 import React from "react";
+import { NavLink } from "react-router-dom";
 import logo from "/logo.svg";
-import { Link, NavLink } from "react-router";
 
 const Navbar = () => {
   return (
-    <div className="hidden xl:flex justify-between items-center px-[160px] py-5 ">
+    <div className="flex flex-col xl:flex-row justify-between items-center px-4 xl:px-[160px] py-5 gap-4 xl:gap-0">
       <div>
-        <img src={logo} alt="" />
+        <img src={logo} alt="Logo" />
       </div>
       <div>
         <ul className="flex font-medium gap-10">
